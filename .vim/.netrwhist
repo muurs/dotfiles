@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/urs/Documents/ETH/Semester9/algo_lab/problems/bistro'
+let g:netrw_dirhist_2='/home/urs/Documents/ETH/Semester9/algo_lab/problems/shopping_trip'
+let g:netrw_dirhist_3='/home/urs/Documents/ETH/Semester10/formal_methods_for_information_security/tutorial'
+let g:netrw_dirhist_4='/home/urs/Documents/ETH/Semester10/formal_methods_for_information_security/project'
+let g:netrw_dirhist_5='/home/urs/Documents/ETH/Semester10/formal_methods_for_information_security/project/pace'
+let g:netrw_dirhist_6='/etc/pm/sleep.d'
+let g:netrw_dirhist_7='/home/urs/Programming/linuxkernel/linux-2.6/scripts'
+let g:netrw_dirhist_8='/home/urs/Programming/C/CTesting'
